@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="road" size="0.100000 0.070082" />
+    <ImageTarget name="MorningSky" size="0.210000 0.118125" />
+    <ImageTarget name="NightSky" size="0.210000 0.118125" />
+    <ImageTarget name="cat" size="0.100000 0.102966" />
+    <ImageTarget name="elephant" size="0.100000 0.099833" />
+    <ImageTarget name="mouse" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
